@@ -26,7 +26,6 @@ A responsive Todo App built using HTML, CSS, and JavaScript with LocalStorage su
 
 ## 📸 Screenshot
 
-(Add your screenshot here)
 
 Example:
 ![Todo App Screenshot](./screenshot.png)
@@ -35,7 +34,7 @@ Example:
 
 ## 🌐 Live Demo
 
-https://priyanshu-573.github.io/to-do-app
+https://priyanshu-todo-app.netlify.app
 
 ---
 
